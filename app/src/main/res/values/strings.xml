@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NDPSongs</string>
+    <string name="textview"> Song Title</string>
+    <string name="name">Enter Song Title here</string>
+    <string name="textview2">Singers</string>
+    <string name="edit2">Enter Singers Name here</string>
+    <string name="tv3">Year</string>
+    <string name="et3">Enter Year of Release here</string>
+    <string name="tv4">Stars</string>
+    <string name="rbtn1">1</string>
+    <string name="rbtn2">2</string>
+    <string name="rbtn3">3</string>
+    <string name="rbtn4">4</string>
+    <string name="rbtn5">5</string>
+    <string name="btn">INSERT</string>
+    <string name="btn2">SHOW LIST</string>
+
+</resources>
